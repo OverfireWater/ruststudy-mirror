@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T05:26:56Z",
+  "generated_at": "2026-04-20T05:54:44Z",
   "repo": "OverfireWater/ruststudy-mirror",
   "packages": {
     "redis": [
@@ -12,7 +12,9 @@
         "exe_rel": "redis-server.exe",
         "tag": "redis-5.0.14.1",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@redis-5.0.14.1/Redis-x64-5.0.14.1.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.14.1/Redis-x64-5.0.14.1.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.14.1/Redis-x64-5.0.14.1.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.14.1/Redis-x64-5.0.14.1.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.14.1/Redis-x64-5.0.14.1.zip"
         ]
       },
@@ -25,7 +27,9 @@
         "exe_rel": "redis-server.exe",
         "tag": "redis-5.0.14",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@redis-5.0.14/Redis-x64-5.0.14.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.14/Redis-x64-5.0.14.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.14/Redis-x64-5.0.14.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.14/Redis-x64-5.0.14.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.14/Redis-x64-5.0.14.zip"
         ]
       },
@@ -38,7 +42,9 @@
         "exe_rel": "redis-server.exe",
         "tag": "redis-5.0.10",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@redis-5.0.10/Redis-x64-5.0.10.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.10/Redis-x64-5.0.10.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.10/Redis-x64-5.0.10.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.10/Redis-x64-5.0.10.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.10/Redis-x64-5.0.10.zip"
         ]
       },
@@ -51,7 +57,9 @@
         "exe_rel": "redis-server.exe",
         "tag": "redis-5.0.9",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@redis-5.0.9/Redis-x64-5.0.9.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.9/Redis-x64-5.0.9.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.9/Redis-x64-5.0.9.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.9/Redis-x64-5.0.9.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.9/Redis-x64-5.0.9.zip"
         ]
       },
@@ -64,8 +72,25 @@
         "exe_rel": "redis-server.exe",
         "tag": "redis-4.0.14.2",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@redis-4.0.14.2/Redis-x64-4.0.14.2.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-4.0.14.2/Redis-x64-4.0.14.2.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-4.0.14.2/Redis-x64-4.0.14.2.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-4.0.14.2/Redis-x64-4.0.14.2.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-4.0.14.2/Redis-x64-4.0.14.2.zip"
+        ]
+      },
+      {
+        "version": "4.0.14.1",
+        "variant": null,
+        "filename": "Redis-x64-4.0.14.1.zip",
+        "size_bytes": 14456427,
+        "sha256": "a11485f3263208322f6a977f4213ffa9483d354548b39efbd6f9466136efbd22",
+        "exe_rel": "redis-server.exe",
+        "tag": "redis-4.0.14.1",
+        "download_urls": [
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-4.0.14.1/Redis-x64-4.0.14.1.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-4.0.14.1/Redis-x64-4.0.14.1.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-4.0.14.1/Redis-x64-4.0.14.1.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-4.0.14.1/Redis-x64-4.0.14.1.zip"
         ]
       }
     ],
@@ -79,7 +104,9 @@
         "exe_rel": "php-cgi.exe",
         "tag": "php-8.5.5",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@php-8.5.5/php-8.5.5-nts-Win32-vs17-x64.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.5.5/php-8.5.5-nts-Win32-vs17-x64.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.5.5/php-8.5.5-nts-Win32-vs17-x64.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.5.5/php-8.5.5-nts-Win32-vs17-x64.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.5.5/php-8.5.5-nts-Win32-vs17-x64.zip"
         ]
       },
@@ -92,7 +119,9 @@
         "exe_rel": "php-cgi.exe",
         "tag": "php-8.4.20",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@php-8.4.20/php-8.4.20-nts-Win32-vs17-x64.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.4.20/php-8.4.20-nts-Win32-vs17-x64.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.4.20/php-8.4.20-nts-Win32-vs17-x64.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.4.20/php-8.4.20-nts-Win32-vs17-x64.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.4.20/php-8.4.20-nts-Win32-vs17-x64.zip"
         ]
       },
@@ -105,7 +134,9 @@
         "exe_rel": "php-cgi.exe",
         "tag": "php-8.3.30",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@php-8.3.30/php-8.3.30-nts-Win32-vs16-x64.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.3.30/php-8.3.30-nts-Win32-vs16-x64.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.3.30/php-8.3.30-nts-Win32-vs16-x64.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.3.30/php-8.3.30-nts-Win32-vs16-x64.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.3.30/php-8.3.30-nts-Win32-vs16-x64.zip"
         ]
       },
@@ -118,7 +149,9 @@
         "exe_rel": "php-cgi.exe",
         "tag": "php-8.2.30",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@php-8.2.30/php-8.2.30-nts-Win32-vs16-x64.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.2.30/php-8.2.30-nts-Win32-vs16-x64.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.2.30/php-8.2.30-nts-Win32-vs16-x64.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.2.30/php-8.2.30-nts-Win32-vs16-x64.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.2.30/php-8.2.30-nts-Win32-vs16-x64.zip"
         ]
       },
@@ -131,7 +164,9 @@
         "exe_rel": "php-cgi.exe",
         "tag": "php-8.1.34",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@php-8.1.34/php-8.1.34-nts-Win32-vs16-x64.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.1.34/php-8.1.34-nts-Win32-vs16-x64.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.1.34/php-8.1.34-nts-Win32-vs16-x64.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.1.34/php-8.1.34-nts-Win32-vs16-x64.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.1.34/php-8.1.34-nts-Win32-vs16-x64.zip"
         ]
       },
@@ -144,7 +179,9 @@
         "exe_rel": "php-cgi.exe",
         "tag": "php-8.0.30",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@php-8.0.30/php-8.0.30-nts-Win32-vs16-x64.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.0.30/php-8.0.30-nts-Win32-vs16-x64.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.0.30/php-8.0.30-nts-Win32-vs16-x64.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.0.30/php-8.0.30-nts-Win32-vs16-x64.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.0.30/php-8.0.30-nts-Win32-vs16-x64.zip"
         ]
       },
@@ -157,7 +194,9 @@
         "exe_rel": "php-cgi.exe",
         "tag": "php-7.4.33",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@php-7.4.33/php-7.4.33-nts-Win32-vc15-x64.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-7.4.33/php-7.4.33-nts-Win32-vc15-x64.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-7.4.33/php-7.4.33-nts-Win32-vc15-x64.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-7.4.33/php-7.4.33-nts-Win32-vc15-x64.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-7.4.33/php-7.4.33-nts-Win32-vc15-x64.zip"
         ]
       }
@@ -172,7 +211,9 @@
         "exe_rel": "nginx.exe",
         "tag": "nginx-1.30.0",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@nginx-1.30.0/nginx-1.30.0.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.30.0/nginx-1.30.0.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.30.0/nginx-1.30.0.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.30.0/nginx-1.30.0.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.30.0/nginx-1.30.0.zip"
         ]
       },
@@ -185,7 +226,9 @@
         "exe_rel": "nginx.exe",
         "tag": "nginx-1.29.8",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@nginx-1.29.8/nginx-1.29.8.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.29.8/nginx-1.29.8.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.29.8/nginx-1.29.8.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.29.8/nginx-1.29.8.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.29.8/nginx-1.29.8.zip"
         ]
       },
@@ -198,7 +241,9 @@
         "exe_rel": "nginx.exe",
         "tag": "nginx-1.28.3",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@nginx-1.28.3/nginx-1.28.3.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.28.3/nginx-1.28.3.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.28.3/nginx-1.28.3.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.28.3/nginx-1.28.3.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.28.3/nginx-1.28.3.zip"
         ]
       },
@@ -211,7 +256,9 @@
         "exe_rel": "nginx.exe",
         "tag": "nginx-1.26.3",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@nginx-1.26.3/nginx-1.26.3.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.26.3/nginx-1.26.3.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.26.3/nginx-1.26.3.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.26.3/nginx-1.26.3.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.26.3/nginx-1.26.3.zip"
         ]
       },
@@ -224,7 +271,9 @@
         "exe_rel": "nginx.exe",
         "tag": "nginx-1.24.0",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@nginx-1.24.0/nginx-1.24.0.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.24.0/nginx-1.24.0.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.24.0/nginx-1.24.0.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.24.0/nginx-1.24.0.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.24.0/nginx-1.24.0.zip"
         ]
       },
@@ -237,7 +286,9 @@
         "exe_rel": "nginx.exe",
         "tag": "nginx-1.22.1",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@nginx-1.22.1/nginx-1.22.1.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.22.1/nginx-1.22.1.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.22.1/nginx-1.22.1.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.22.1/nginx-1.22.1.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.22.1/nginx-1.22.1.zip"
         ]
       },
@@ -250,7 +301,9 @@
         "exe_rel": "nginx.exe",
         "tag": "nginx-1.20.2",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@nginx-1.20.2/nginx-1.20.2.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.20.2/nginx-1.20.2.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.20.2/nginx-1.20.2.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.20.2/nginx-1.20.2.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.20.2/nginx-1.20.2.zip"
         ]
       },
@@ -263,7 +316,9 @@
         "exe_rel": "nginx.exe",
         "tag": "nginx-1.18.0",
         "download_urls": [
-          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@nginx-1.18.0/nginx-1.18.0.zip",
+          "https://ghfast.top/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.18.0/nginx-1.18.0.zip",
+          "https://ghproxy.net/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.18.0/nginx-1.18.0.zip",
+          "https://gh-proxy.com/https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.18.0/nginx-1.18.0.zip",
           "https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.18.0/nginx-1.18.0.zip"
         ]
       }
