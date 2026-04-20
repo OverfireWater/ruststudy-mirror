@@ -1,0 +1,272 @@
+{
+  "generated_at": "2026-04-20T05:26:56Z",
+  "repo": "OverfireWater/ruststudy-mirror",
+  "packages": {
+    "redis": [
+      {
+        "version": "5.0.14.1",
+        "variant": null,
+        "filename": "Redis-x64-5.0.14.1.zip",
+        "size_bytes": 12617669,
+        "sha256": "018ea18a35876383cbb5f4cd0258adfc87747cf9d619bce1cf73a2e36f720ccf",
+        "exe_rel": "redis-server.exe",
+        "tag": "redis-5.0.14.1",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@redis-5.0.14.1/Redis-x64-5.0.14.1.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.14.1/Redis-x64-5.0.14.1.zip"
+        ]
+      },
+      {
+        "version": "5.0.14",
+        "variant": null,
+        "filename": "Redis-x64-5.0.14.zip",
+        "size_bytes": 12604726,
+        "sha256": "858be95d18021e350f28a8d24ab5139fcc856f7667f85e4f114ff7b30082e48e",
+        "exe_rel": "redis-server.exe",
+        "tag": "redis-5.0.14",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@redis-5.0.14/Redis-x64-5.0.14.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.14/Redis-x64-5.0.14.zip"
+        ]
+      },
+      {
+        "version": "5.0.10",
+        "variant": null,
+        "filename": "Redis-x64-5.0.10.zip",
+        "size_bytes": 15067193,
+        "sha256": "f0fa5b8101b286000a9d2b05d300cd0d702b4197a96cdabe6c9d9f859de44566",
+        "exe_rel": "redis-server.exe",
+        "tag": "redis-5.0.10",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@redis-5.0.10/Redis-x64-5.0.10.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.10/Redis-x64-5.0.10.zip"
+        ]
+      },
+      {
+        "version": "5.0.9",
+        "variant": null,
+        "filename": "Redis-x64-5.0.9.zip",
+        "size_bytes": 15152866,
+        "sha256": "b09565b22b50c505a5faa86a7e40b6683afb22f3c17c5e6a5e35fc9b7c03f4c2",
+        "exe_rel": "redis-server.exe",
+        "tag": "redis-5.0.9",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@redis-5.0.9/Redis-x64-5.0.9.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-5.0.9/Redis-x64-5.0.9.zip"
+        ]
+      },
+      {
+        "version": "4.0.14.2",
+        "variant": null,
+        "filename": "Redis-x64-4.0.14.2.zip",
+        "size_bytes": 14469406,
+        "sha256": "6fac443543244c803311de5883b714a7ae3c4fa0594cad51d75b24c4ef45b353",
+        "exe_rel": "redis-server.exe",
+        "tag": "redis-4.0.14.2",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@redis-4.0.14.2/Redis-x64-4.0.14.2.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/redis-4.0.14.2/Redis-x64-4.0.14.2.zip"
+        ]
+      }
+    ],
+    "php": [
+      {
+        "version": "8.5.5",
+        "variant": "x64-NTS vs17",
+        "filename": "php-8.5.5-nts-Win32-vs17-x64.zip",
+        "size_bytes": 35380502,
+        "sha256": "107f64f689eec2a0966b4d8a42f0e34e8dfa04c5097c9548e35fb951cba0a464",
+        "exe_rel": "php-cgi.exe",
+        "tag": "php-8.5.5",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@php-8.5.5/php-8.5.5-nts-Win32-vs17-x64.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.5.5/php-8.5.5-nts-Win32-vs17-x64.zip"
+        ]
+      },
+      {
+        "version": "8.4.20",
+        "variant": "x64-NTS vs17",
+        "filename": "php-8.4.20-nts-Win32-vs17-x64.zip",
+        "size_bytes": 34323692,
+        "sha256": "bac1a970a676e8d875d5d39fc5ff388f231fadb9fb051b77b17db06a657673df",
+        "exe_rel": "php-cgi.exe",
+        "tag": "php-8.4.20",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@php-8.4.20/php-8.4.20-nts-Win32-vs17-x64.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.4.20/php-8.4.20-nts-Win32-vs17-x64.zip"
+        ]
+      },
+      {
+        "version": "8.3.30",
+        "variant": "x64-NTS vs16",
+        "filename": "php-8.3.30-nts-Win32-vs16-x64.zip",
+        "size_bytes": 32258211,
+        "sha256": "42637b42b38b9c0d731e59c5cb8b755693a01b110cd2f31951f67de5cb4cd129",
+        "exe_rel": "php-cgi.exe",
+        "tag": "php-8.3.30",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@php-8.3.30/php-8.3.30-nts-Win32-vs16-x64.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.3.30/php-8.3.30-nts-Win32-vs16-x64.zip"
+        ]
+      },
+      {
+        "version": "8.2.30",
+        "variant": "x64-NTS vs16",
+        "filename": "php-8.2.30-nts-Win32-vs16-x64.zip",
+        "size_bytes": 31858174,
+        "sha256": "8a6e409adb5f7fb196c07315c69195c4eb87eec8acae2e74a0e04ec50745a055",
+        "exe_rel": "php-cgi.exe",
+        "tag": "php-8.2.30",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@php-8.2.30/php-8.2.30-nts-Win32-vs16-x64.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.2.30/php-8.2.30-nts-Win32-vs16-x64.zip"
+        ]
+      },
+      {
+        "version": "8.1.34",
+        "variant": "x64-NTS vs16",
+        "filename": "php-8.1.34-nts-Win32-vs16-x64.zip",
+        "size_bytes": 30822368,
+        "sha256": "9cfe246cb144076c16f5913a3ef88a474c3dd7e60f0f0c8bb95faf68674016cc",
+        "exe_rel": "php-cgi.exe",
+        "tag": "php-8.1.34",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@php-8.1.34/php-8.1.34-nts-Win32-vs16-x64.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.1.34/php-8.1.34-nts-Win32-vs16-x64.zip"
+        ]
+      },
+      {
+        "version": "8.0.30",
+        "variant": "x64-NTS vs16",
+        "filename": "php-8.0.30-nts-Win32-vs16-x64.zip",
+        "size_bytes": 26766957,
+        "sha256": "dfb70498ffa2c617f2f655a155564697e3c9cca41709938fd1a5997d1d5b0785",
+        "exe_rel": "php-cgi.exe",
+        "tag": "php-8.0.30",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@php-8.0.30/php-8.0.30-nts-Win32-vs16-x64.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-8.0.30/php-8.0.30-nts-Win32-vs16-x64.zip"
+        ]
+      },
+      {
+        "version": "7.4.33",
+        "variant": "x64-NTS vc15",
+        "filename": "php-7.4.33-nts-Win32-vc15-x64.zip",
+        "size_bytes": 26132214,
+        "sha256": "14ae3250d4447c8ccfc4c45a70d90adfbcd61e728d85f0be56a7ddf8f9c8aace",
+        "exe_rel": "php-cgi.exe",
+        "tag": "php-7.4.33",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@php-7.4.33/php-7.4.33-nts-Win32-vc15-x64.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/php-7.4.33/php-7.4.33-nts-Win32-vc15-x64.zip"
+        ]
+      }
+    ],
+    "nginx": [
+      {
+        "version": "1.30.0",
+        "variant": null,
+        "filename": "nginx-1.30.0.zip",
+        "size_bytes": 2768936,
+        "sha256": "70f52d646e86d88fdbd03cd968afdd08f9de819ecbefc06e6135cfbb7eabe2f9",
+        "exe_rel": "nginx.exe",
+        "tag": "nginx-1.30.0",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@nginx-1.30.0/nginx-1.30.0.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.30.0/nginx-1.30.0.zip"
+        ]
+      },
+      {
+        "version": "1.29.8",
+        "variant": null,
+        "filename": "nginx-1.29.8.zip",
+        "size_bytes": 2768163,
+        "sha256": "9ed580804bb83dce0197fcb29f2372411c7369d8b9866f137135ccd547ad22de",
+        "exe_rel": "nginx.exe",
+        "tag": "nginx-1.29.8",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@nginx-1.29.8/nginx-1.29.8.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.29.8/nginx-1.29.8.zip"
+        ]
+      },
+      {
+        "version": "1.28.3",
+        "variant": null,
+        "filename": "nginx-1.28.3.zip",
+        "size_bytes": 2743427,
+        "sha256": "aad7bf75d669ece7671688bfdf35f1093d6a30d2e62469405f4d55d8d82d5fd3",
+        "exe_rel": "nginx.exe",
+        "tag": "nginx-1.28.3",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@nginx-1.28.3/nginx-1.28.3.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.28.3/nginx-1.28.3.zip"
+        ]
+      },
+      {
+        "version": "1.26.3",
+        "variant": null,
+        "filename": "nginx-1.26.3.zip",
+        "size_bytes": 2095246,
+        "sha256": "39ca13277b361910f9e463a7e958e11566f7ede8a6f0df08a21b659ca92f3662",
+        "exe_rel": "nginx.exe",
+        "tag": "nginx-1.26.3",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@nginx-1.26.3/nginx-1.26.3.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.26.3/nginx-1.26.3.zip"
+        ]
+      },
+      {
+        "version": "1.24.0",
+        "variant": null,
+        "filename": "nginx-1.24.0.zip",
+        "size_bytes": 1759722,
+        "sha256": "69a36bfd2a61d7a736fafd392708bd0fb6cf15d741f8028fe6d8bb5ebd670eb9",
+        "exe_rel": "nginx.exe",
+        "tag": "nginx-1.24.0",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@nginx-1.24.0/nginx-1.24.0.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.24.0/nginx-1.24.0.zip"
+        ]
+      },
+      {
+        "version": "1.22.1",
+        "variant": null,
+        "filename": "nginx-1.22.1.zip",
+        "size_bytes": 1752707,
+        "sha256": "299659e687503228b061b0231715d5b13b63ed88599b46af52290d2e414370ae",
+        "exe_rel": "nginx.exe",
+        "tag": "nginx-1.22.1",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@nginx-1.22.1/nginx-1.22.1.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.22.1/nginx-1.22.1.zip"
+        ]
+      },
+      {
+        "version": "1.20.2",
+        "variant": null,
+        "filename": "nginx-1.20.2.zip",
+        "size_bytes": 1730766,
+        "sha256": "ef7f78ce631ec9b7af8c44e8185215ff6f1e97fc9431330db38f0950eb00ce5b",
+        "exe_rel": "nginx.exe",
+        "tag": "nginx-1.20.2",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@nginx-1.20.2/nginx-1.20.2.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.20.2/nginx-1.20.2.zip"
+        ]
+      },
+      {
+        "version": "1.18.0",
+        "variant": null,
+        "filename": "nginx-1.18.0.zip",
+        "size_bytes": 1711619,
+        "sha256": "a505a776eaf869b09f15e0e588c18784f036720de8518346668f20f2866a71d5",
+        "exe_rel": "nginx.exe",
+        "tag": "nginx-1.18.0",
+        "download_urls": [
+          "https://cdn.jsdelivr.net/gh/OverfireWater/ruststudy-mirror@nginx-1.18.0/nginx-1.18.0.zip",
+          "https://github.com/OverfireWater/ruststudy-mirror/releases/download/nginx-1.18.0/nginx-1.18.0.zip"
+        ]
+      }
+    ]
+  }
+}
